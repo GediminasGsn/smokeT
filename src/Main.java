@@ -37,7 +37,7 @@ public class Main {
         }
         return name;//suformatuotas Namecase
     }
-
+//
     public static boolean assertEquals(String actual, String expected) {
         return actual.equals(expected);
     }
